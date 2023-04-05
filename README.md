@@ -26,22 +26,20 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 
 This model can predict mpg of MechaCar with an effective rate of 71% from our R^2 being 0.71.
 
-![Part_1](https://github.com/SKuczynski17/Credit_Risk_Analysis/blob/main/Supervised%20Learning%20Challenge/Photos/Naive_Oversampling.png)
-* Balanced Accuracy Score: 63%
+![Part_1](https://github.com/SKuczynski17/MechaCar_Statistical_Analysis-/blob/main/Images/Part_1.png)
 
 ## Part 2: Summary Statistics on Suspension Coils
 
 Our suspension coil summary statistics show that as a whole the manufacturing data meets our design specifications, fitting under our max variance target of 100. However, Lot 3 is a huge outlier that does not fit within the 100-psi variance, we need to dive deeper as this lot could put our entire process at risk. 
 
-![Part 2](https://github.com/SKuczynski17/Credit_Risk_Analysis/blob/main/Supervised%20Learning%20Challenge/Photos/Naive_Oversampling.png)
-![Part 2](https://github.com/SKuczynski17/Credit_Risk_Analysis/blob/main/Supervised%20Learning%20Challenge/Photos/Naive_Oversampling.png)
+![Part 2](https://github.com/SKuczynski17/MechaCar_Statistical_Analysis-/blob/main/Images/total_summary.png)
+![Part 2](https://github.com/SKuczynski17/MechaCar_Statistical_Analysis-/blob/main/Images/lot_summary.png)
 
 ## Part 3: T-Test on Suspension Coils
 
 Our Lots 1 & 2 do not show any significant differences coming in with p values of 1 & 0.6 respectively. However, Lot 3 does have a statistically significant mean difference with a p value of 0.4 which is lower than our threshold of 0.5.
 
-![Part 3](https://github.com/SKuczynski17/Credit_Risk_Analysis/blob/main/Supervised%20Learning%20Challenge/Photos/Naive_Oversampling.png)
-![Part 3](https://github.com/SKuczynski17/Credit_Risk_Analysis/blob/main/Supervised%20Learning%20Challenge/Photos/Naive_Oversampling.png)
+![Part 3](https://github.com/SKuczynski17/MechaCar_Statistical_Analysis-/blob/main/Images/T-Test.png)
 
 ## Part 4: Design a Study Comparing the MechaCar to the Competition
 
