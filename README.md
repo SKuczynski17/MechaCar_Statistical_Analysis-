@@ -2,6 +2,8 @@
 
 ## Overview of Project
 
+### We are working with Jeremy on a special project to help review production data on their newest prototype that is suffering from production troubles. We will be using R to help find and execute these statistical analysis. 
+
 ## Deliverables
 
 ### There were 4 main objectives we attacked during this task.
@@ -12,15 +14,15 @@
 
 ## Part 1: Linear Regression to Predict MPG
 
-Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+### Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
 Using our model we were able to find that the intercept (5.08e-08), vehicle weight (2.60e-12) and ground clearance (5.21e-08) provided a non-random amount of variance in 3*s of significance.
 
-Is the slope of the linear model considered to be zero? Why or why not?
+### Is the slope of the linear model considered to be zero? Why or why not?
 
 The slope of the linear model does not consider to be zero due to having a p-value of 5.35e-11. 
 
-Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+### Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 This model can predict mpg of MechaCar with an effective rate of 71% from our R^2 being 0.71.
 
