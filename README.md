@@ -2,8 +2,6 @@
 
 ## Overview of Project
 
-### Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Jill and I worked together to build up skills in the following that allowed us to tackle creating multiple machine learning models using different strategies to help provide us the best solution.
-
 ## Deliverables
 
 ### There were 4 main objectives we attacked during this task.
